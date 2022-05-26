@@ -4,6 +4,10 @@ if __name__ == '__main__':
     a = int(input())
     b = int(input())
 
+    print(a + b)
+    print(a - b)
+    print(a * b)
+
 #Task
 #The provided code stub reads two integers from STDIN,  and . Add code to print three lines where:
 #1) The first line contains the sum of the two numbers.
